@@ -22,7 +22,7 @@ public class UsersActivity extends AppCompatActivity {
         setContentView(R.layout.activity_users);
 
         textViewName = (TextView) findViewById(R.id.text1);
-        String nameFromIntent = getIntent().getStringExtra("Name");
+        String nameFromIntent = getIntent().getStringExtra("EMAIL");
         textViewName.setText("Welcome " + nameFromIntent);
 
         Log.d(this.getClass().getName(), "잘눌림 ");

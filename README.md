@@ -2,3 +2,4 @@ This is an Android SQlite Repository of the 'Visual Disability Guide System' usi
 
 1. Memeber Control Android project
 2. You must download the application from the 'TFL_Object_detection' repository.
+    (https://github.com/KIMYONGGEE/TFL_Object_detection)
